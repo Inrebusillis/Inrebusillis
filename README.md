@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Inrebusillis
-- 👀 I’m interested in LoRa
-- 🌱 I’m currently learning 
-- 💞️ I’m looking to collaborate on Thingsboard/dragino
+- 👀 I’m interested in LoRa based system
+- 🌱 I’m currently running a TTI network 
+- 💞️ I’m a always looking for new project to make life enjoyable
 - 📫 How to reach me ...
 
 <!---
